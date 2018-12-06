@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  6 DEC 2018 13:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  6 DEC 2018 15:23
 entering extended mode
 **./template.tex
 (template.tex
@@ -872,11 +872,11 @@ LaTeX Info: Redefining \nameref on input line 43.
 \@outlinefile=\write4
 \openout4 = `template.out'.
 
-<alice.jpeg, id=6, 216.81pt x 233.87375pt>
-File: alice.jpeg Graphic file (type jpg)
-<use alice.jpeg>
-Package pdftex.def Info: alice.jpeg  used on input line 65.
-(pdftex.def)             Requested size: 142.26378pt x 153.46854pt.
+<msh.jpg, id=6, 113.7048pt x 142.3719pt>
+File: msh.jpg Graphic file (type jpg)
+<use msh.jpg>
+Package pdftex.def Info: msh.jpg  used on input line 65.
+(pdftex.def)             Requested size: 142.26378pt x 178.13168pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 65.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
@@ -959,12 +959,11 @@ LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 135.
 [1
 
-{D:/Latex_Portable_Updated/texmfs/data/pdftex/config/pdftex.map} <./alice.jpeg>
-]
-File: alice.jpeg Graphic file (type jpg)
-<use alice.jpeg>
-Package pdftex.def Info: alice.jpeg  used on input line 145.
-(pdftex.def)             Requested size: 142.26378pt x 153.46854pt.
+{D:/Latex_Portable_Updated/texmfs/data/pdftex/config/pdftex.map} <./msh.jpg>]
+File: msh.jpg Graphic file (type jpg)
+<use msh.jpg>
+Package pdftex.def Info: msh.jpg  used on input line 145.
+(pdftex.def)             Requested size: 142.26378pt x 178.13168pt.
 
 Overfull \hbox (4.3538pt too wide) in paragraph at lines 145--145
 [][]| 
@@ -1007,11 +1006,14 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  17380 strings out of 492969
- 325497 string characters out of 3130150
- 400207 words of memory out of 3000000
+ 325433 string characters out of 3130150
+ 400431 words of memory out of 3000000
  20931 multiletter control sequences out of 15000+200000
  51750 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1020,11 +1022,10 @@ Here is how much of TeX's memory you used:
 x.enc}<D:/Latex_Portable_Updated/texmfs/install/fonts/type1/intel/clearsans/Cle
 arSans-Italic.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/intel/c
 learsans/ClearSans-Regular.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb><D:/Latex_Portable_Updated/texmfs/install/f
-onts/type1/public/marvosym/marvosym.pfb>
-Output written on template.pdf (2 pages, 69635 bytes).
+type1/public/marvosym/marvosym.pfb>
+Output written on template.pdf (2 pages, 99574 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

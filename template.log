@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  7 DEC 2018 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  9 DEC 2018 12:56
 entering extended mode
 **./template.tex
 (template.tex
@@ -953,61 +953,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--129
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 136.
+
+Overfull \hbox (27.5863pt too wide) in alignment at lines 142--157
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--158
+
+ []
+
 [1
 
 {D:/Latex_Portable_Updated/texmfs/data/pdftex/config/pdftex.map} <./msh.jpg>]
 File: msh.jpg Graphic file (type jpg)
 <use msh.jpg>
-Package pdftex.def Info: msh.jpg  used on input line 146.
+Package pdftex.def Info: msh.jpg  used on input line 166.
 (pdftex.def)             Requested size: 142.26378pt x 178.13168pt.
 
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 146--146
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 166--166
 [][]| 
  []
 
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 146--146
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 166--166
 [][]| 
  []
 
 
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 146--146
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 166--166
 [][]| 
  []
 
 
-Overfull \hbox (4.85674pt too wide) in paragraph at lines 146--146
+Overfull \hbox (4.85674pt too wide) in paragraph at lines 166--166
 [][]| 
  []
 
 
-Overfull \hbox (4.0501pt too wide) in paragraph at lines 146--146
+Overfull \hbox (4.0501pt too wide) in paragraph at lines 166--166
 [][]| 
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 146--146
+Overfull \hbox (0.4pt too wide) in paragraph at lines 166--166
 [][] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
  (template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 17374 strings out of 492969
- 325303 string characters out of 3130150
- 400157 words of memory out of 3000000
- 20928 multiletter control sequences out of 15000+200000
+ 17375 strings out of 492969
+ 325318 string characters out of 3130150
+ 401118 words of memory out of 3000000
+ 20929 multiletter control sequences out of 15000+200000
  40002 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,16n,56p,800b,813s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1015,7 +1038,7 @@ Here is how much of TeX's memory you used:
 x.enc}<D:/Latex_Portable_Updated/texmfs/install/fonts/type1/intel/clearsans/Cle
 arSans-Regular.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public
 /marvosym/marvosym.pfb>
-Output written on template.pdf (2 pages, 91140 bytes).
+Output written on template.pdf (2 pages, 90340 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

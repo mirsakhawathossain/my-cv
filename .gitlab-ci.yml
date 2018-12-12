@@ -5,8 +5,8 @@
 image: aergus/latex
 
 build:
-  script
+  script:
     - latexmk -pdf cv.tex
   artifacts:
     paths:
-      - "MYCV/*.pdf"
+      - "/*.pdf"

@@ -9,4 +9,4 @@ build:
     - latexmk -pdf cv.tex
   artifacts:
     paths:
-      - "/*.pdf"
+      - "*.pdf"

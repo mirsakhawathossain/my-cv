@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  11 MAR 2019 14:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  28 DEC 2019 20:41
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -1030,7 +1030,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  17380 strings out of 492969
  325318 string characters out of 3130150
- 402325 words of memory out of 3000000
+ 402318 words of memory out of 3000000
  20933 multiletter control sequences out of 15000+200000
  40002 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1039,7 +1039,7 @@ Here is how much of TeX's memory you used:
 x.enc}<D:/Latex_Portable_Updated/texmfs/install/fonts/type1/intel/clearsans/Cle
 arSans-Regular.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public
 /marvosym/marvosym.pfb>
-Output written on cv.pdf (2 pages, 99160 bytes).
+Output written on cv.pdf (2 pages, 99153 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
